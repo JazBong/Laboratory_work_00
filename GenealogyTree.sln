@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenealogyTree.BLL", "..\..\GenealogyTreeApp\GenealogyTree.BLL\GenealogyTree.BLL.csproj", "{8D9533B8-0957-4C28-A487-316CD84368AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenealogyTree.DAL", "..\..\GenealogyTreeApp\GenealogyTree.DAL\GenealogyTree.DAL.csproj", "{2EC92FCC-CF3C-4FE3-B531-1E75C6A9683B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenealogyTree.Presentation", "..\..\GenealogyTreeApp\GenealogyTree.Presentation\GenealogyTree.Presentation.csproj", "{EFA8BFEA-1FC4-491B-903B-DF590D3106F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9533B8-0957-4C28-A487-316CD84368AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9533B8-0957-4C28-A487-316CD84368AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9533B8-0957-4C28-A487-316CD84368AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9533B8-0957-4C28-A487-316CD84368AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC92FCC-CF3C-4FE3-B531-1E75C6A9683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC92FCC-CF3C-4FE3-B531-1E75C6A9683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC92FCC-CF3C-4FE3-B531-1E75C6A9683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC92FCC-CF3C-4FE3-B531-1E75C6A9683B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA8BFEA-1FC4-491B-903B-DF590D3106F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA8BFEA-1FC4-491B-903B-DF590D3106F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA8BFEA-1FC4-491B-903B-DF590D3106F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA8BFEA-1FC4-491B-903B-DF590D3106F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9889BB-21D6-4439-A09B-33BEC71E8CD5}
+	EndGlobalSection
+EndGlobal

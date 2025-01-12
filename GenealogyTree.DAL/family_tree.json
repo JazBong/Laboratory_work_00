@@ -1,0 +1,150 @@
+{
+  "People": [
+    {
+      "Id": "1a1e1c1f-2d4e-41c9-b62b-000000000001",
+      "FullName": "Name000000001",
+      "BirthDate": "1930-11-01T00:00:00",
+      "Gender": "Man",
+      "Relations": {
+        "spouse": [
+          "6ac6e6a7-640c-4219-9d82-6ac9806b3503"
+        ],
+        "child": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504",
+          "6b15e08b-ba20-465b-a672-bf0e29f478cd"
+        ]
+      }
+    },
+    {
+      "Id": "6ac6e6a7-640c-4219-9d82-6ac9806b3503",
+      "FullName": "Name000000002",
+      "BirthDate": "1931-05-06T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "spouse": [
+          "1a1e1c1f-2d4e-41c9-b62b-000000000001"
+        ],
+        "child": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504",
+          "6b15e08b-ba20-465b-a672-bf0e29f478cd"
+        ]
+      }
+    },
+    {
+      "Id": "ff41996e-3e18-4feb-a3bd-3a2047036504",
+      "FullName": "Name000000003",
+      "BirthDate": "1955-08-14T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "parent": [
+          "6ac6e6a7-640c-4219-9d82-6ac9806b3503",
+          "1a1e1c1f-2d4e-41c9-b62b-000000000001"
+        ],
+        "child": [
+          "dfe99325-fc73-46cb-99fa-7f9e7e016b2f",
+          "8f8d17b7-72b3-4618-9c53-0612bb01b496",
+          "15b191c8-9c72-4a28-b88a-26df74fa72b0"
+        ],
+        "spouse": [
+          "7ca304cc-79d3-4d31-a3c2-ff53690f9592"
+        ]
+      }
+    },
+    {
+      "Id": "dfe99325-fc73-46cb-99fa-7f9e7e016b2f",
+      "FullName": "Name000000004",
+      "BirthDate": "1987-12-16T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "parent": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504",
+          "7ca304cc-79d3-4d31-a3c2-ff53690f9592"
+        ],
+        "spouse": [
+          "f6cf78f4-31c1-4947-a3fb-232e85f0f862"
+        ],
+        "child": [
+          "b100c70c-055c-4fc6-ba3b-34ae6ab40dc8"
+        ]
+      }
+    },
+    {
+      "Id": "f6cf78f4-31c1-4947-a3fb-232e85f0f862",
+      "FullName": "Name000000005",
+      "BirthDate": "1990-02-19T00:00:00",
+      "Gender": "Man",
+      "Relations": {
+        "spouse": [
+          "dfe99325-fc73-46cb-99fa-7f9e7e016b2f"
+        ],
+        "child": [
+          "b100c70c-055c-4fc6-ba3b-34ae6ab40dc8"
+        ]
+      }
+    },
+    {
+      "Id": "8f8d17b7-72b3-4618-9c53-0612bb01b496",
+      "FullName": "Name000000006",
+      "BirthDate": "1987-03-21T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "parent": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504",
+          "7ca304cc-79d3-4d31-a3c2-ff53690f9592"
+        ]
+      }
+    },
+    {
+      "Id": "15b191c8-9c72-4a28-b88a-26df74fa72b0",
+      "FullName": "Name000000007",
+      "BirthDate": "1985-11-14T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "parent": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504",
+          "7ca304cc-79d3-4d31-a3c2-ff53690f9592"
+        ]
+      }
+    },
+    {
+      "Id": "6b15e08b-ba20-465b-a672-bf0e29f478cd",
+      "FullName": "Name000000008",
+      "BirthDate": "1958-01-02T00:00:00",
+      "Gender": "Woman",
+      "Relations": {
+        "parent": [
+          "1a1e1c1f-2d4e-41c9-b62b-000000000001",
+          "6ac6e6a7-640c-4219-9d82-6ac9806b3503"
+        ]
+      }
+    },
+    {
+      "Id": "7ca304cc-79d3-4d31-a3c2-ff53690f9592",
+      "FullName": "Name000000009",
+      "BirthDate": "1959-04-16T00:00:00",
+      "Gender": "Man",
+      "Relations": {
+        "spouse": [
+          "ff41996e-3e18-4feb-a3bd-3a2047036504"
+        ],
+        "child": [
+          "dfe99325-fc73-46cb-99fa-7f9e7e016b2f",
+          "8f8d17b7-72b3-4618-9c53-0612bb01b496",
+          "15b191c8-9c72-4a28-b88a-26df74fa72b0"
+        ]
+      }
+    },
+    {
+      "Id": "b100c70c-055c-4fc6-ba3b-34ae6ab40dc8",
+      "FullName": "Name000000010",
+      "BirthDate": "2020-02-12T00:00:00",
+      "Gender": "Man",
+      "Relations": {
+        "parent": [
+          "dfe99325-fc73-46cb-99fa-7f9e7e016b2f",
+          "f6cf78f4-31c1-4947-a3fb-232e85f0f862"
+        ]
+      }
+    }
+  ]
+}
